@@ -1,0 +1,378 @@
+``` md
+02/09/2026
+
+# On the current macro state of European defence industry
+
+## Executive view
+
+The European defence industry is entering a fundamentally different phase of its cycle. What began after Russia's invasion of Ukraine as an urgent replenishment of depleted inventories has evolved into a broader, multi-year rearmament programme. The principal change over the past 12–24 months is that higher defence spending is increasingly becoming **institutionalised, funded and procurement-oriented**.
+
+European defence expenditure is rising rapidly, NATO has established a materially higher long-term spending framework, and the European Union has introduced financing mechanisms designed to overcome national fiscal constraints. At the same time, the nature of military demand is changing: the experience of the war in Ukraine is shifting procurement priorities toward ammunition, air and missile defence, drones, electronic warfare, ISR, long-range precision strike and resilient command-and-control infrastructure.
+
+The industry therefore enters the current period with an unusually strong combination of **demand visibility and political support**. The principal constraints are increasingly on the supply side: production capacity, labour, specialised components, financing and the ability of governments and companies to convert political commitments into executable programmes.
+
+The macro picture is consequently best described as **structurally expansionary, but increasingly capacity- and execution-constrained**.
+
+---
+
+## Defence spending has moved into a structurally higher regime
+
+The most important development is the scale and breadth of the increase in European defence expenditure.
+
+According to the European Defence Agency, EU-27 defence expenditure reached approximately **€418bn in 2025**, around 20% above 2024, with expenditure expected to rise further to approximately **€454bn in 2026**. The important feature is not simply the headline increase but the composition of that spending: European governments are directing an increasing proportion toward equipment procurement and investment.
+
+The European defence investment ratio has consequently risen substantially. This marks an important change from previous European defence cycles, in which budget increases were frequently absorbed by personnel and operating costs rather than translated into new equipment.
+
+The spending cycle is also becoming increasingly broad-based. Germany, France, the UK, Italy, the Nordics, Poland and other Eastern European countries are all increasing defence expenditure, although from very different starting points and with different procurement priorities.
+
+This reduces the probability that the current cycle is simply a temporary inventory-replenishment episode.
+
+Instead, Europe is beginning to rebuild a defence-industrial base that had been allowed to contract materially after the end of the Cold War.
+
+---
+
+## NATO has raised the structural spending anchor
+
+The NATO spending framework represents another important regime change.
+
+European allies have moved beyond the previous 2% of GDP benchmark and committed to a substantially higher long-term spending framework, with a target of **5% of GDP by 2035**, including at least 3.5% for core defence requirements and up to 1.5% for broader defence- and security-related investment.
+
+The importance of this commitment goes beyond the headline number.
+
+For industry, a multi-year spending framework creates greater confidence that governments will maintain procurement programmes through the cycle. This improves the willingness of defence companies to invest in factories, machinery, labour and supply chains.
+
+For governments, it also changes the political benchmark. Defence spending is increasingly evaluated against alliance commitments rather than against historical national expenditure levels.
+
+The result should be greater persistence in the European defence investment cycle even if the immediate intensity of the Russia-Ukraine conflict changes.
+
+---
+
+## The EU is beginning to solve the financing problem
+
+Historically, one of Europe's principal constraints was not a lack of recognition of the security problem but a lack of fiscal mechanisms capable of financing a simultaneous increase in defence expenditure across multiple highly indebted sovereigns.
+
+The introduction of the **€150bn SAFE financing mechanism** represents an important institutional response.
+
+SAFE allows European governments to access EU-backed financing for defence-related investment and joint procurement. Crucially, the programme has moved beyond legislation and political announcements: national plans have been submitted and initial disbursements have begun.
+
+This is important because it increases the probability that announced defence spending becomes **actual procurement demand**.
+
+The EU fiscal framework has also become more accommodating of defence spending, with a number of Member States receiving flexibility under the national escape clause.
+
+The European defence financing architecture is therefore evolving from a predominantly national-budget model toward a combination of:
+
+* national defence budgets;
+* extraordinary national funds;
+* EU-backed loans;
+* joint procurement;
+* fiscal-rule flexibility; and
+* potentially broader European financing mechanisms.
+
+This should reduce, although not eliminate, the risk that fiscal constraints interrupt the current rearmament cycle.
+
+---
+
+## The composition of demand is changing
+
+The European defence industry is not simply experiencing more demand for the same products.
+
+The war in Ukraine has altered the perceived capability requirements of European armed forces.
+
+Several areas stand out.
+
+### Ammunition
+
+Ammunition inventories were severely depleted by decades of low procurement. Replenishment is therefore one of the clearest and most immediate procurement priorities.
+
+The key issue is increasingly production capacity rather than demand.
+
+### Air and missile defence
+
+The proliferation of drones, cruise missiles and ballistic missiles has exposed significant European capability gaps.
+
+Air and missile defence is consequently becoming one of the most strategically important areas of incremental procurement.
+
+### Drones and counter-drone systems
+
+The war has demonstrated that relatively inexpensive unmanned systems can have an outsized impact on the battlefield.
+
+This is likely to generate sustained investment in both offensive drones and counter-UAS systems.
+
+### Electronic warfare
+
+Electronic warfare has become increasingly important as both sides adapt to precision weapons, drones and increasingly contested communications.
+
+European forces therefore require greater investment in jamming, sensing, communications resilience and spectrum dominance.
+
+### ISR and space
+
+Persistent surveillance, targeting and battlefield intelligence have become critical to modern warfare.
+
+This is increasing demand for satellites, sensors, secure communications and intelligence infrastructure.
+
+### Long-range precision strike
+
+The European capability gap in long-range strike is receiving increasing attention, particularly as governments consider scenarios in which US capabilities may not always be immediately available.
+
+### Land warfare
+
+Armoured vehicles, artillery and associated systems remain important despite the increasing role of unmanned systems.
+
+The central change is that the modern land force is becoming a more technologically dense system combining conventional platforms with drones, sensors, electronic warfare and precision weapons.
+
+---
+
+## Europe is moving from inventory replenishment to industrial regeneration
+
+This is arguably the most important transition for the industry.
+
+The first phase of the post-2022 cycle was primarily about:
+
+> **replacing what had already been consumed.**
+
+The current phase increasingly involves:
+
+> **building the capacity required for sustained higher defence expenditure.**
+
+This distinction matters.
+
+Defence companies are investing in:
+
+* new production lines;
+* new factories;
+* additional shifts;
+* specialised machinery;
+* workforce expansion;
+* vertical integration;
+* supplier development; and
+* long-term raw-material agreements.
+
+The European defence industrial base had been optimised for relatively low volumes and predictable procurement schedules. It is now being asked to produce at significantly higher rates.
+
+This creates an unusual situation in which **order books can grow faster than revenue**.
+
+The limiting factor is no longer necessarily demand. It is the industry's ability to convert backlog into physical output.
+
+---
+
+## Capacity is becoming the key bottleneck
+
+The industry is increasingly moving through three stages:
+
+**Stage 1 — Demand constrained**
+
+Governments were not ordering enough equipment.
+
+**Stage 2 — Capacity constrained**
+
+Governments are now willing to order more than industry can immediately produce.
+
+**Stage 3 — Execution constrained**
+
+As production scales, the key question becomes whether companies can expand capacity without compromising margins, quality or delivery schedules.
+
+Europe is increasingly entering the second stage and, in some programmes, the third.
+
+The most important indicators from here are therefore not simply order intake and backlog.
+
+They are:
+
+* delivery rates;
+* production throughput;
+* factory utilisation;
+* hiring;
+* supplier capacity;
+* lead times;
+* capex;
+* working capital;
+* contract economics; and
+* programme execution.
+
+The distinction between **backlog growth and backlog monetisation** will become increasingly important.
+
+---
+
+## The fiscal constraint has not disappeared
+
+The improvement in defence spending should not be interpreted as evidence that European fiscal constraints have been solved.
+
+They have largely been **deferred or partially circumvented**.
+
+Government debt remains high across much of Europe, while interest costs are increasing. France represents the clearest example of the tension between the strategic requirement for higher defence expenditure and the constraints imposed by fiscal sustainability.
+
+This creates a medium-term political question:
+
+> How much of the additional defence expenditure can be financed through higher deficits, and how much ultimately requires taxation, spending reallocation or European-level borrowing?
+
+For the defence industry, this distinction matters because **announced spending is not equivalent to funded procurement**.
+
+The most important fiscal indicator is therefore increasingly the conversion of headline defence commitments into appropriations and binding procurement contracts.
+
+---
+
+## Inflation is becoming a more important industry variable
+
+The macro environment is also becoming less benign from an operating-cost perspective.
+
+European inflation has reaccelerated, with headline euro-area inflation reaching approximately 3.3% in August 2026. Wage growth remains relatively strong and energy costs remain sensitive to geopolitical developments.
+
+For defence companies, the key issue is not headline CPI itself but the interaction between:
+
+**contract pricing + input costs + production ramp-up.**
+
+A company receiving significantly more orders can still disappoint investors if:
+
+* labour costs rise faster than expected;
+* specialised components remain scarce;
+* energy costs increase;
+* raw-material prices rise;
+* suppliers cannot scale;
+* fixed-price contracts become uneconomic; or
+* working-capital requirements absorb cash.
+
+Consequently, margin progression is becoming almost as important as revenue growth.
+
+---
+
+## The industrial backdrop is improving
+
+The broader European manufacturing environment has also begun to recover.
+
+Eurozone manufacturing PMI reached approximately **52.7 in August**, indicating expansion, while new orders recorded a particularly strong improvement.
+
+This is helpful for defence manufacturing because the industry ultimately depends on the broader European industrial ecosystem for:
+
+* machinery;
+* metals;
+* electronics;
+* engineering labour;
+* logistics;
+* energy; and
+* specialised components.
+
+A stronger manufacturing cycle therefore provides a more favourable environment for defence-capacity expansion.
+
+However, it also means defence companies increasingly compete with civilian industry for skilled labour and scarce industrial inputs.
+
+---
+
+## Russia remains the central strategic driver
+
+The Russia-Ukraine war remains unresolved and military activity continues at a high intensity.
+
+Importantly, the European defence requirement is no longer dependent on a particular battlefield outcome.
+
+A prolonged conflict supports continued replenishment and capacity investment.
+
+A ceasefire would reduce immediate battlefield consumption, but it would not necessarily reverse the structural rearmament programme. European governments have increasingly incorporated a longer-term assessment of Russian military capability into their defence planning.
+
+The critical strategic question is therefore not simply:
+
+> "When does the Ukraine war end?"
+
+but:
+
+> "What military capability will European governments believe they need after the war?"
+
+Current policy suggests that European governments increasingly expect a long-term requirement for greater ammunition stocks, air defence, precision strike, drones, ISR and military readiness.
+
+---
+
+## US burden-sharing is reinforcing European demand
+
+The second structural geopolitical driver is the changing division of responsibility between Europe and the United States.
+
+The US continues to support NATO, but Washington is increasingly demanding that European allies assume greater responsibility for their own conventional defence.
+
+This creates an important asymmetry.
+
+A reduction in US military involvement in Europe would be negative from a geopolitical perspective, but it would simultaneously increase the requirement for European governments to invest in indigenous capabilities.
+
+Consequently, greater US burden-sharing pressure is structurally supportive of European defence procurement.
+
+The relevant question is therefore not whether the US remains committed to NATO in absolute terms, but:
+
+> **How much of Europe's conventional military capability does Europe ultimately need to provide itself?**
+
+The answer increasingly appears to be: substantially more than in the previous two decades.
+
+---
+
+## European procurement policy is becoming more strategic
+
+Another structural change is the increasing emphasis on European defence-industrial sovereignty.
+
+European governments increasingly recognise that buying equipment is not sufficient. They need:
+
+* domestic production capacity;
+* secure supply chains;
+* ammunition sovereignty;
+* technology sovereignty;
+* maintenance capability;
+* spare-parts availability; and
+* strategic control over critical systems.
+
+This is likely to favour European defence manufacturers over the long term, although US suppliers will remain important in areas where European capabilities are insufficient.
+
+The key policy variable is therefore the balance between:
+
+**"buy the best available system"**
+
+and
+
+**"build European strategic capacity."**
+
+The current direction is clearly toward greater European industrial participation.
+
+---
+
+## Current assessment
+
+The European defence industry currently sits in an unusually favourable demand environment.
+
+The fundamental cycle is being supported simultaneously by:
+
+1. **Higher national defence budgets.**
+2. **Higher NATO spending requirements.**
+3. **EU-level defence financing.**
+4. **Greater fiscal flexibility for defence.**
+5. **Persistent Russian military capability.**
+6. **Greater European responsibility for continental security.**
+7. **Low historical inventories and significant replenishment requirements.**
+8. **New capability requirements exposed by the Ukraine war.**
+9. **Increasing emphasis on European defence-industrial sovereignty.**
+10. **Growing investment in domestic production capacity.**
+
+The industry is therefore transitioning from a period of **structural underinvestment** to one of **structural capacity expansion**.
+
+The principal risks have also changed.
+
+The most important risks from here are not primarily a collapse in defence demand. They are:
+
+* fiscal fatigue;
+* political disagreement over spending;
+* procurement delays;
+* excessive dependence on extraordinary financing;
+* production bottlenecks;
+* labour shortages;
+* input-cost inflation;
+* fixed-price contract pressure;
+* programme execution;
+* and the possibility that companies invest ahead of sustainable demand.
+
+### Overall assessment
+
+**The European defence industry remains in a structurally expansionary macro regime.**
+
+The demand cycle is broadening from emergency replenishment toward sustained capability development and industrial regeneration. Government commitment has become more credible because it is increasingly supported by multi-year budgets, NATO targets and EU financing.
+
+The key analytical question is consequently moving from:
+
+> **"Will Europe spend more on defence?"**
+
+to:
+
+> **"How quickly can Europe translate the announced spending into funded procurement, and how efficiently can its defence industry convert that procurement into production, earnings and free cash flow?"**
+
+That transition—from **demand creation to execution**—is likely to define the next phase of the European defence cycle.
+```
