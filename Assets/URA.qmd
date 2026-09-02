@@ -1,1 +1,10 @@
+``` md
+02/09/2026
 
+**On the Current State of World Nuclear Power Reactors & Uranium Requirements**
+
+The World Nuclear Association’s updated figures paint a picture of steady, resilient momentum characterized by structural modernization rather than sudden growth spikes. 
+Global baseline demand has settled firmly at 68,920 tonnes of uranium per year to feed a global fleet of 441 operable reactors. While the physical headcount of global reactors has remained relatively flat over the last two decades due to retirements balancing out new startups, net global capacity has quietly expanded by 21 GW because modern grid connections are significantly larger and more efficient than legacy units.The long-term takeaway from this data is a deep geographic bifurcation in fuel demand. 
+The West, led by the USA's 94 reactors consuming 19,011 tU, provides a massive, predictable floor for current uranium demand but shows no near-term construction growth. Meanwhile, long-term expansion is entirely locked into Asia—specifically China, which dominates the future pipeline with 37 reactors under construction and 44 planned. 
+For institutional observers, the ledger confirms a low-risk, compounding demand profile that will continue to systematically tighten uncommitted global uranium supplies over the next two decades.
+```
