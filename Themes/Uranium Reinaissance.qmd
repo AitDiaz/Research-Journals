@@ -7,6 +7,3 @@ Global baseline demand has settled firmly at 68,920 tonnes of uranium per year t
 The West, led by the USA's 94 reactors consuming 19,011 tU, provides a massive, predictable floor for current uranium demand but shows no near-term construction growth. Meanwhile, long-term expansion is entirely locked into Asia—specifically China, which dominates the future pipeline with 37 reactors under construction and 44 planned. 
 For institutional observers, the ledger confirms a low-risk, compounding demand profile that will continue to systematically tighten uncommitted global uranium supplies over the next two decades.
 ```
-
-``` md
-```
