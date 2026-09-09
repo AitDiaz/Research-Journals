@@ -1,0 +1,34 @@
+``` md
+07/09/2026
+### On current state of US–China trade, technology, and critical-mineral policy
+
+US–China economic tensions are increasingly moving beyond tariffs and into strategic control of technology and critical supply chains. Ahead of the September 24 summit, Chinese suppliers have reportedly halted shipments of critical minerals to US companies despite holding export licenses, with tightening availability of yttrium, indium phosphide and tungsten pushing prices towards record highs. The restrictions are also extending to US allies: Chinese exports of terbium to Japan fell to zero in January–August 2026, while gallium and yttrium shipments declined 65% and 98%, respectively. Beijing’s actions appear partly retaliatory, following successive US technology restrictions, and highlight China’s leverage from its dominant position in mineral processing. While some relaxation during the summit is possible, the underlying risk remains: the broader heavy rare-earth controls are only temporarily suspended, leaving the threat of renewed disruption beyond November.
+
+At the same time, the technology divide is becoming increasingly structural. Washington is pressing allies to align with its ecosystem, while Europe’s Pax Silica declaration reinforces this direction. Yet export controls face a leakage problem as open-weight Chinese AI models such as DeepSeek, Qwen and Kimi spread globally and cannot realistically be recalled once downloaded. The US response is therefore accelerating investment in supply-chain diversification and alternative mineral partnerships across Africa and Central Asia. The result is a transition from efficiency-driven globalisation towards strategic redundancy, with higher supply-chain costs, greater capex requirements and persistent geopolitical risk becoming structural features of the technology cycle.
+```
+
+``` md
+09/09/2026
+
+### on major milestones of the  34th International Defence Industry Exhibition (MSPO 2026)
+
+### 1. Record-Breaking Scale & Structural Shift
+* **Exhibitor Majority Delta:** For the first time in MSPO history, foreign exhibitors outnumber domestic firms (700+ international vs. 503 Polish companies) across 1,200+ total exhibitors. 
+* **Infrastructure Expansion:** To accommodate unprecedented global demand, Targi Kielce debuted a brand-new exhibition hall, expanding indoor capacity to a record 53,500 square meters.
+* **Lead Nation Impact:** Canada, as the 2026 Lead Nation, deployed its largest-ever European showcase featuring 180 companies aiming to secure long-term defense supply chain integration.
+
+### 2. Strategic Contracts & Sovereign Production Deals
+* **Hanwha-Poland Sub-Licensing:** Hanwha Aerospace executed a critical Sub-License Agreement with Poland’s Armament Agency for the HOMAR-K rocket launcher program, transferring rights for technical documentation and spare parts manufacturing directly to the Polish State Treasury.
+* **Bilateral Tactical Integration:** Turkish giant ASELSAN formalized a deal with AMZ-Kutno to supply ARSUS reconnaissance and surveillance systems for Polish tactical armored vehicle fleets.
+* **AI & Simulation Frameworks:** Poland's WB Electronics and Canada's CAE signed a Memorandum of Understanding (MoU) to co-develop synthetic training and simulation environments for unmanned and autonomous military operations.
+
+### 3. High-Profile Hardware & Frontline Technology Debuts
+* **Polish Armor Upgrades:** Rosomak S.A. unveiled the **Rosomak-L**, featuring a hull lengthened by 60 cm to support advanced heavy turrets (ZSSW-30/Turra 30) while enhancing amphibious buoyancy. PGZ/HSW also established a firm timeline for its 40-tonne **Heavy IFV**, eyeing serial production by 2029.
+* **Ukrainian Long-Range Weaponry:** State-owned Ukroboronprom drew significant attention by showcasing domestic deep-strike capabilities born from combat experience, including full-scale models of the **Flamingo cruise missile**, **FP-7/FP-9 ballistic missiles**, and the **BARS jet drone**. 
+* **Low-Cost Air Defense:** Hanwha Aerospace debuted the **Cheongwang operational laser weapon system**, showcasing an ultra-low operating cost of $1.50 per shot alongside the L-SAM long-range interceptor.
+
+### 4. Key Strategic Discussions & Trends
+* **The "Dual-Use" Pivot:** Panel sessions heavily focused on the rapid adaptation of civilian-born technologies (AI, modular image analysis, and commercial grid energy storage) for direct military application. 
+* **Synthetic Training & AI Agents:** A notable highlight included live demonstrations of Canada's **Agent X** (by OVA), demonstrating how generative AI agents are being implemented to accelerate synthetic tactical instruction.
+to accelerate synthetic tactical instruction.
+```

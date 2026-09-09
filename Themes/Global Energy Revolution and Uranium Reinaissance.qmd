@@ -1,0 +1,21 @@
+``` md
+02/09/2026
+# On the Current State of World Nuclear Power Reactors & Uranium Requirements**
+
+The World Nuclear Association’s updated figures paint a picture of steady, resilient momentum characterized by structural modernization rather than sudden growth spikes. 
+Global baseline demand has settled firmly at 68,920 tonnes of uranium per year to feed a global fleet of 441 operable reactors. While the physical headcount of global reactors has remained relatively flat over the last two decades due to retirements balancing out new startups, net global capacity has quietly expanded by 21 GW because modern grid connections are significantly larger and more efficient than legacy units.The long-term takeaway from this data is a deep geographic bifurcation in fuel demand. 
+The West, led by the USA's 94 reactors consuming 19,011 tU, provides a massive, predictable floor for current uranium demand but shows no near-term construction growth. Meanwhile, long-term expansion is entirely locked into Asia—specifically China, which dominates the future pipeline with 37 reactors under construction and 44 planned. 
+For institutional observers, the ledger confirms a low-risk, compounding demand profile that will continue to systematically tighten uncommitted global uranium supplies over the next two decades.
+```
+
+``` md
+09/09/20026
+
+# On Latest Developments on the Uranium Industry and the World Nuclear Symposium 2026
+
+The opening of the 51st World Nuclear Symposium in London has established a pivotal mandate for the nuclear sector: transitioning global capacity expansion "From Ambition to Action." Central to this mobilization is transforming nuclear projects into mainstream, investable infrastructure assets. The newly unveiled *World Nuclear Investment Guide* addresses historical valuation challenges, demonstrating that a mere 1% reduction in the cost of capital lowers the levelized cost of electricity (LCOE) by $10 to $20/MWh.
+
+However, the industry faces an operational paradox fueled by global fragmentation. While heightened geopolitical tensions have accelerated national state-backed commitments to nuclear sovereignty, trade fractures threaten the cross-border standardization critical to driving down costs. Splitting global supply chains into aligned blocs restricts the economies of scale that institutional financiers require. Furthermore, regulatory balkanization forces developers to customize designs for individual jurisdictions, turning what should be assembly-line products back into expensive, bespoke projects.
+
+In response, the uranium fuel cycle and reactor supply chains are actively restructuring. To mitigate the risk of fractured global trade, the industry is pivoting toward robust regional alliances and "friend-shoring" corridors, notably across Central Europe and the ASEAN region. Driven by the WNA's projection that global nuclear capacity could hit 1,457 GWe by 2050, the uranium mining and enrichment sectors are securing localized, long-term supply agreements. By building predictable, geopolitically insulated regulatory frameworks within these regional clusters, the sector aims to insulate capital flows from broader global friction, ensuring the fuel and infrastructure pipelines remain secure.
+```
