@@ -1,0 +1,16 @@
+``` md
+29/09/2026
+### On the last datapoint and trend for retail sales in Spain
+
+Spain’s retail trade index declined by 0.4% year-on-year (calendar-adjusted) in August 2026, maintaining the stabilization pattern observed in July. While the headline figure suggests a consumption slowdown, a granular analysis confirms a structural transition rather than a demand contraction.
+
+The negative headline is heavily distorted by automotive fuel sales, which plummeted by 7.1% year-on-year. Stripping out service stations, core retail trade excluding fuel expanded by 0.3%, proving that aggregate underlying domestic demand remains resilient.
+
+Current data highlights a stark divergence in consumer spending allocations:
+• Experiential & Digital Pivot: Structural demand has migrated toward digital channels and leisure, evidenced by a 11.0% surge in cultural and recreational goods and an 8.7% expansion in internet and mail-order sales.
+• Scale Divergence: Institutional scale continues to outperform, with large chain stores (+1.6%) and department stores (+2.3%) absorbing traffic at the expense of small single-stores (-4.0%).
+
+This 2026 consolidation follows a high-growth baseline in 2025, where retail sales advanced by an exceptional 4.3%. That cyclical peak was driven by intense macroeconomic tailwinds: robust immigration inflows that elevated baseline consumption, historical record-breaking tourism volumes, and significant gains in real wages as inflation normalized to 2.7%.
+
+In conclusion, the current reading reflects a healthy normalization. Having exhausted the pent-up post-inflation demand for physical goods that fueled 2025, the Spanish consumer—backed by a resilient labor market—is systematically prioritizing experiential spending, services, and e-commerce platforms.
+```

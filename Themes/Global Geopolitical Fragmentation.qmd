@@ -32,3 +32,15 @@ At the same time, the technology divide is becoming increasingly structural. Was
 * **Synthetic Training & AI Agents:** A notable highlight included live demonstrations of Canada's **Agent X** (by OVA), demonstrating how generative AI agents are being implemented to accelerate synthetic tactical instruction.
 to accelerate synthetic tactical instruction.
 ```
+
+``` md
+02/10/2026
+
+### On major milestones of the  Connecting Europe Days 2026
+
+
+The Connecting Europe Days 2026, held in Brussels from September 28 to October 1, concluded with landmark agreements accelerating the Trans-European Transport Network (TEN-T) and driving European connectivity, digitalization, and decarbonization.
+Financially, European leaders established vital frameworks to blend the Connecting Europe Facility (CEF) with private capital, targeting critical infrastructure bottlenecks. A major breakthrough was the €22.8 billion Balkan Cross-Border Action Plan signed by Bulgaria, Greece, and Romania, introducing 25 priority transport projects to link the Aegean Sea, the Danube, and the Black Sea. Concurrently, northern corridors saw intensified efforts to integrate Ukraine, Moldova, and the Baltics into the standard European rail gauge.
+Technologically and environmentally, the summit delivered actionable blueprints for sustainability. Under the Alternative Fuels Infrastructure Regulation (AFIR), innovative public-private models were launched to de-risk high-power charging networks for heavy-duty electric vehicles. Air and maritime sectors also marked major milestones: the SESAR 3 Joint Undertaking finalized digital airspace strategies to cut airline fuel burn, while maritime panels deployed TIC 4.0 automation standards to optimize port operations. Furthermore, the event solidified the digital transition of logistics by aligning member states for the upcoming Electronic Freight Transport Information (eFTI) regulation, eliminating paper-based freight administration.
+Finally, guided by the Enrico Letta report, the conference championed a "Fifth Freedom" for cross-border data sharing. This shifts EU policy from purely physical construction to embedding cybersecurity and "digital twins" into European supply chains, safeguarding the continent’s long-term global competitiveness.
+```
