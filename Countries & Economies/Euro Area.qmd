@@ -1,0 +1,13 @@
+``` md
+15/10/2026
+
+### On latest comments about ECB stand and current financial systems risks and objectives
+
+Macroeconomic Outlook, Inflation, and Growth
+
+ECB President Christine Lagarde provided a detailed assessment of the eurozone’s economic health during her appearance at the IMF-World Bank meetings in Bangkok. She stated that while inflation remains driven primarily by energy costs linked to Middle East tensions, there are no generalized second-round effects on wages at this stage. Lagarde characterized the projected 1,1% GDP growth for 2026 as modest but acceptable given the challenging global environment. Addressing market anxieties over French sovereign debt and bond spreads, she maintained a strict institutional boundary. Lagarde emphasized that fiscal consolidation must be achieved domestically through France’s own national budget policies, signaling that the central bank will not step in to solve sovereign fiscal imbalances.
+
+Supervision, Radical Uncertainty, and Banking Resilience
+
+Concurrently, Executive Board member Frank Elderson and Chair of the Supervisory Board Claudia Buch focused their interventions on structural risk management within the financial sector. Speaking in Frankfurt, Elderson warned that commercial banks now face radical, non-linear uncertainties driven simultaneously by climate change, artificial intelligence, and sophisticated cyberattacks, all of which render traditional predictive models obsolete. Aligning with this view, Buch argued during a World Bank panel in Bangkok that deeper European banking integration is vital to counteract geopolitical fragmentation. Both supervisors strongly agreed that building structural resilience, securing rapid digital transitions, and proactively preparing for emerging technological threats are non-negotiable mandates to protect global banking stability.
+```
